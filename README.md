@@ -11,7 +11,7 @@ Super Mike World Stuff
 
 TAS
 
-[TAS Tools](/scratchTASTools.md)
+[TAS Tools](https://maxymeems.github.io/scratchTASTools.md)
 
 Other
 
