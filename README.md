@@ -2,7 +2,7 @@ i don't know what you expected from me i don't even know how to code
 
 Super Mike World Stuff
 
-[Super Mike World 2 Saves](https://maxymeems.github.io/smw2saves.md)
+[Super Mike World 2 Saves](/smw2saves.md)
 
 [Super Mike World 2 Save Editor](https://maxymeems.github.io/smw2se.html)
 
@@ -11,7 +11,7 @@ Super Mike World Stuff
 
 TAS
 
-[TAS Tools](https://maxymeems.github.io/scratchTASTools.md)
+[TAS Tools](/scratchTASTools.md)
 
 Other
 
