@@ -9,7 +9,7 @@ Super Mike World Stuff
 
 [Super Mike World 2 Save Editor](https://maxymeems.github.io/smw2se.html)
 
-[Super Mike World 2 Any% Retimer](https://maxymeems.github.io/SMW2Any%25Retimer.html)
+[Mike Retimed (Any% Retimer)](https://maxymeems.github.io/MikeRetimed.html)
 
 
 TAS
