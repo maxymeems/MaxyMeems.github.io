@@ -23,5 +23,4 @@ so i edited the games diffulty to 4 (expert) and it worked but then i realised i
 Random Save Generator:
 https://www.speedrun.com/super_mike_world_2/resources/8mraj
 
-Save Editor:
-https://maxymemes.itch.io/smw2se
+[Save Editor](https://maxymeems.github.io/smw2se.html) 
