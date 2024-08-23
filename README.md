@@ -24,8 +24,8 @@ Other
 
 PolyTrack
 
-[Poly](/poly.html)
+[Poly](/poly.md)
 
-[Poly0.1.1](/Poly0.1.1.html)
+[Poly0.1.1](/Poly0.1.1.md)
 
 
