@@ -1,6 +1,9 @@
 i don't know what you expected from me i don't even know how to code 
 
-[Speedrun.com](https://www.speedrun.com/users/MaxyMemes)
+hi meems here and I put useful things here 
+
+
+[My Speedrun.com Page](https://www.speedrun.com/users/MaxyMemes)
 
 [Contact](mailto:elaruuian@gmail.com)
 
