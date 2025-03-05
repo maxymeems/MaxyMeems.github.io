@@ -8,6 +8,8 @@ meem
 
 [Contact](mailto:elaruuian@gmail.com)
 
+[Discord Server](https://discord.gg/pptaPycZTF)
+
 
 Super Mike World Stuff
 
