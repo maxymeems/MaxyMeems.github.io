@@ -2,6 +2,15 @@ i don't know what you expected from me i don't even know how to code
 
 hi meems here and I put useful things here sometimes.
 
+‮
+
+I'm Currently working on mike world stuff, mental health, and Fixing my very bad reputation.
+
+"I guess you never know what you got 'til it's gone" - Kanye West, Homecoming
+
+So because i am very controversal, im not allowed to be in the Scratch Community as much as i would like, which makes me sound crazy when i say "i'm inproving my mental health" when all they see is a very crazy person whos a jerk.
+When in realitiy i'm very kind and trying to befriend the people i've hurt. I'm not crazy, i'm just hurt.
+
 meem
 
 [My Speedrun.com Page](https://www.speedrun.com/users/MaxyMemes)
@@ -11,16 +20,20 @@ meem
 [Discord Server](https://discord.gg/pptaPycZTF)
 
 
+
 Super Mike World Stuff
 
 [Mike Forums](https://mrmeems27.wixsite.com/mikeforums)
 
 [Super Mike World 2 Saves](/smw2saves.md)
 
-[Super Mike World 2 Save Editor](https://maxymeems.github.io/smw2se.html)
+[Super Mike World 2 Save Editor](/smw2se.html)
 
-[Mike Retimed (Any% Retimer)](https://maxymeems.github.io/MikeRetimed.html)
+[Mike Retimed (Any% Retimer)](/MikeRetimed.html)
 
+[Editor Objects]([/SMW2EditorObjects.html)
+
+[Super Mike World Sheet](https://docs.google.com/spreadsheets/d/1eebaDkIImlU3dPv1TsXc47nkqdlZVbAIKhrz_46q0Gs/edit?usp=drivesdk)
 
 TAS
 
