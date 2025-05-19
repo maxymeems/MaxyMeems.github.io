@@ -31,7 +31,7 @@ Super Mike World Stuff
 
 [Mike Retimed (Any% Retimer)](/MikeRetimed.html)
 
-[Editor Objects]([/SMW2EditorObjects.html)
+[Editor Objects](/SMW2EditorObjects.html)
 
 [Super Mike World Sheet](https://docs.google.com/spreadsheets/d/1eebaDkIImlU3dPv1TsXc47nkqdlZVbAIKhrz_46q0Gs/edit?usp=drivesdk)
 
