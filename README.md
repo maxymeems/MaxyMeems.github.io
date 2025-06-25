@@ -2,14 +2,6 @@ i don't know what you expected from me i don't even know how to code
 
 hi meems here and I put useful things here sometimes.
 
-‮
-
-I'm Currently working on mike world stuff, mental health, and Fixing my very bad reputation.
-
-"I guess you never know what you got 'til it's gone" - Kanye West, Homecoming
-
-So because i am very controversal, im not allowed to be in the Scratch Community as much as i would like, which makes me sound crazy when i say "i'm inproving my mental health" when all they see is a very crazy person whos a jerk.
-When in realitiy i'm very kind and trying to befriend the people i've hurt. I'm not crazy, i'm just hurt.
 
 meem
 
