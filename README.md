@@ -18,8 +18,6 @@ Super Mike World Stuff
 
 [Mike World Site](/Mike/micheal.html)
 
-[Editor Objects](/SMW2EditorObjects.html)
-
 [Super Mike World Sheet](https://docs.google.com/spreadsheets/d/1eebaDkIImlU3dPv1TsXc47nkqdlZVbAIKhrz_46q0Gs/edit?usp=drivesdk)
 
 TAS
