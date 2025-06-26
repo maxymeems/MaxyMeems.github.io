@@ -2,17 +2,6 @@ i don't know what you expected from me i don't even know how to code
 
 hi meems here and I put useful things here sometimes.
 
-<html>
-
-<h1></h1>
-
-<a href="micheal">
-  <button>micheal</button>
-</a>
-
- 
-</html>
-
 meem
 
 [My Speedrun.com Page](https://www.speedrun.com/users/MaxyMemes)
@@ -27,11 +16,7 @@ Super Mike World Stuff
 
 [Mike Forums](https://mrmeems27.wixsite.com/mikeforums)
 
-[Super Mike World 2 Saves](/smw2saves.md)
-
-[Super Mike World 2 Save Editor](/smw2se.html)
-
-[Mike Retimed (Any% Retimer)](/MikeRetimed.html)
+[Mike World Site](/Mike/micheal.html)
 
 [Editor Objects](/SMW2EditorObjects.html)
 
